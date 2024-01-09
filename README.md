@@ -5,7 +5,7 @@
 - 🔧 Tech Stack: [SQL, MySQL, PostgreSQL, Power BI, Python, SSIS, Azure, AWS, ReactJS, NodedJS]
 - 📚 Always learning and evolving
 - 🌐 Let's connect and collaborate on projects!
-- 📫 Reach out to me: [https://www.linkedin.com/in/haskerboe/]
+- 📫 Reach out to me: [https://www.linkedin.com/in/thebgby/]
   
 Happy coding! 🚀
 
